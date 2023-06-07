@@ -1,11 +1,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=e3d9c9&height=200&section=header&text=LEE%SO%YEON%&fontSize=90&fontColor=363636&animation=twinkling&FontAlignY=100)
 
-
 <h1 align="center">😇 Frontend Developer 😇</h1>
  
 <p align="center">🌸 배우고 정리하는 걸 좋아하는 개발자 입니다. 🌸</p>
 <p align="center">https://www.notion.so/who-am-I-c2593a35c2f94ba882f0da8e03f2d8e5 </p>
+
+<br/> 
+<br/> 
+
+![leesoyeon93's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesoyeon93&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeeso93)](https://solved.ac/leeeso93/)
+
+<br/> 
+<br/> 
+
 
 <h3 align="center"> 💻 My Tech Stack 💻</h3>
 <br/>
@@ -25,4 +34,7 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>&nbsp 
 </p>
+
+<br/>
+
 
