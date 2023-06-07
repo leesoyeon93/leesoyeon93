@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm LEE SO YEON 👋
+
+[![leesoyeon93's github stats](https://github-readme-stats.vercel.app/api?username=leesoyeon93)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **leesoyeon93/leesoyeon93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
